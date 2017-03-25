@@ -1,0 +1,42 @@
+﻿生成启动时间为 2017/3/25 11:13:06。
+     1>项目“E:\编程\C,C++\贪吃蛇AI\snack AI\ConsoleApplication1\ConsoleApplication1.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         D:\software\visual studio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TC /analyze- /errorReport:prompt A_star.c binary_heap.c dfs.c snack_AI.c snack_game.c main.c
+         main.c
+         snack_game.c
+     1>e:\编程\c,c++\贪吃蛇ai\snack ai\consoleapplication1\snack_game.c(260): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _kbhit. See online help for details.
+                 d:\software\visual studio\vc\include\conio.h(133) : 参见“kbhit”的声明
+     1>e:\编程\c,c++\贪吃蛇ai\snack ai\consoleapplication1\snack_game.c(262): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _kbhit. See online help for details.
+                 d:\software\visual studio\vc\include\conio.h(133) : 参见“kbhit”的声明
+     1>e:\编程\c,c++\贪吃蛇ai\snack ai\consoleapplication1\snack_game.c(263): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 d:\software\visual studio\vc\include\conio.h(131) : 参见“getch”的声明
+     1>e:\编程\c,c++\贪吃蛇ai\snack ai\consoleapplication1\snack_game.c(324): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 d:\software\visual studio\vc\include\conio.h(131) : 参见“getch”的声明
+     1>e:\编程\c,c++\贪吃蛇ai\snack ai\consoleapplication1\snack_game.c(343): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _kbhit. See online help for details.
+                 d:\software\visual studio\vc\include\conio.h(133) : 参见“kbhit”的声明
+     1>e:\编程\c,c++\贪吃蛇ai\snack ai\consoleapplication1\snack_game.c(357): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 d:\software\visual studio\vc\include\conio.h(131) : 参见“getch”的声明
+     1>e:\编程\c,c++\贪吃蛇ai\snack ai\consoleapplication1\snack_game.c(370): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 d:\software\visual studio\vc\include\conio.h(131) : 参见“getch”的声明
+         snack_AI.c
+     1>e:\编程\c,c++\贪吃蛇ai\snack ai\consoleapplication1\snack_ai.c(327): warning C4101: “j”: 未引用的局部变量
+         dfs.c
+         binary_heap.c
+         A_star.c
+     1>e:\编程\c,c++\贪吃蛇ai\snack ai\consoleapplication1\a_star.c(249): warning C4101: “j”: 未引用的局部变量
+     1>e:\编程\c,c++\贪吃蛇ai\snack ai\consoleapplication1\a_star.c(371): warning C4101: “j”: 未引用的局部变量
+         正在生成代码...
+     1>e:\编程\c,c++\贪吃蛇ai\snack ai\consoleapplication1\dfs.c(71): warning C4716: “dfs_min”: 必须返回一个值
+       Link:
+         D:\software\visual studio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\编程\C,C++\贪吃蛇AI\snack AI\Debug\AI贪吃蛇.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\编程\C,C++\贪吃蛇AI\snack AI\Debug\AI贪吃蛇.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\编程\C,C++\贪吃蛇AI\snack AI\Debug\AI贪吃蛇.lib" /MACHINE:X86 Debug\A_star.obj
+         Debug\binary_heap.obj
+         Debug\dfs.obj
+         Debug\snack_AI.obj
+         Debug\snack_game.obj
+         Debug\main.obj
+         ConsoleApplication1.vcxproj -> E:\编程\C,C++\贪吃蛇AI\snack AI\Debug\AI贪吃蛇.exe
+     1>已完成生成项目“E:\编程\C,C++\贪吃蛇AI\snack AI\ConsoleApplication1\ConsoleApplication1.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.33
