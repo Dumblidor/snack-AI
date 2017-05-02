@@ -1,2 +1,2 @@
 # snack-AI
-A sample snack AI
+A simple snack AI
